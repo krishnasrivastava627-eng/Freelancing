@@ -672,3 +672,10 @@ a:focus-visible {
     padding-left: 0.35rem;
   }
 }
+.btn-secondary {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  margin-left: 10px;
+  text-decoration: none;
+}
